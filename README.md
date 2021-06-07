@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enassah532
 - 👀 I’m interested in programming and network security 
-- 🌱 I’m currently learning python and laravel 
-- 💞️ I’m looking to collaborate on a web programming project and also andoid
+- 🌱 I’m currently learning java ee and laravel 
+- 💞️ I’m looking to collaborate on a web programming project and also android
 - 📫 How to reach me hmoustaphaousmane@gmail.com
 
 <!---
